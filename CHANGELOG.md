@@ -1,5 +1,12 @@
 # Changelog
 
+## [24.1.1](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v24.1.0...v24.1.1) (2025-07-13)
+
+
+### Bug Fixes
+
+* Inovelli: add P34 to VZM32-SN ([#9614](https://github.com/Koenkk/zigbee-herdsman-converters/issues/9614)) ([9f245a6](https://github.com/Koenkk/zigbee-herdsman-converters/commit/9f245a68f785af37b06f45cca4a788b212b26f89))
+
 ## [24.1.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v24.0.0...v24.1.0) (2025-07-12)
 
 
